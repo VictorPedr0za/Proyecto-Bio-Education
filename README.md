@@ -1,5 +1,9 @@
 # Proyecto-Bio-Education
- Parcial Final de la asignatura Computación Gráfica
+ Proyecto Final de la asignatura Computación Gráfica
+ Integrantes del proyecto
+ Víctor Manuel Pedroza Holguin (120825)
+ Santiago Ramirez Posso (121377)
+ 
 Bioeducation es una página web interactiva diseñada para enseñar biología de manera visual y práctica mediante modelos 3D. El proyecto ofrece una experiencia educativa única a través de tres módulos principales, cada uno enfocado en un tema diferente:
 
 Célula: Presenta un modelo 3D de una célula con sus partes principales señalizadas. Además, incluye un quiz para reforzar los conocimientos adquiridos.
