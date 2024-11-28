@@ -15,3 +15,7 @@ Célula: celula.html
 Anatomía: anatomia.html
 Germinación de la planta: planta.html
 Nota: Si planeas ejecutar el proyecto en un entorno local Live server.
+
+Tecnologías Usadas
+Three.js: Para cargar y renderizar modelos 3D en formato .glb en la página web.
+Model Viewer: Usado como referencia para diseñar la visualización interactiva de los modelos.
